@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "eb7fc6bdd2d94bff5796edf0",
+  "owner": "c7emb7unx",
+  "repo": "page-2a3a19482bd4f61a54f70b63",
+  "title": "皮皮虾",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2a3a19482bd4f61a54f70b63",
+      "a": "皮皮虾",
+      "b": "2027官方最新地址导航",
+      "entity": "皮皮虾",
+      "brand": "皮皮虾",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7ace3b089e1e812d0231dc8c2742e3384739a095a52ac54e9099e2ebb1683148",
+      "content": {
+        "primary_entity": "皮皮虾",
+        "keyword1": "皮皮虾",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，皮皮虾面向有海外网络加速需求的用户，提供基础版、旗舰版与团队版三档订阅，分别支持3台、5台、20台设备同时在线，流量从每月100GB到1000GB不等。按年付可享更优惠价格，旗舰版含IPLC专线并优化游戏延迟，团队版提供VIP高带宽节点与企业定制路由。选择时先确认常用设备数量与月流量，再依客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐匹配多设备场景",
+          "AI_HERO_INTRO": "皮皮虾提供基础版、旗舰版与团队版三档海外加速订阅，覆盖3台至20台设备同时在线，流量100GB至1000GB每月。旗舰版增加IPLC专线游戏优化与全节点流媒体解锁，团队版提供VIP专属高带宽节点和企业定制路由，按年付能降低月均成本。",
+          "AI_VISUAL_TITLE": "皮皮虾三档尊享加速",
+          "AI_HIGHLIGHT_1": "3台起步，最多20台设备同时在线",
+          "AI_HIGHLIGHT_2": "100GB至1000GB月流量按需选择",
+          "AI_HIGHLIGHT_3": "IEPL专线加速与流媒体解锁",
+          "AI_FEATURES_TITLE": "套餐选择与设备匹配",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和线路需求三个角度对比三档套餐，快速找到适合自己使用习惯的一档。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版5台，团队版20台，多设备家庭或小型团队建议直接选择团队版。",
+          "AI_FEATURE_TITLE_2": "按月流量匹配",
+          "AI_FEATURE_TEXT_2": "100GB适合轻度浏览，300GB满足高清视频与日常办公，1000GB则适合重度下载和多人大流量使用。",
+          "AI_FEATURE_TITLE_3": "按周期付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付¥150，旗舰版年付¥350，团队版年付¥850，年付相比月付能明显降低月均支出。",
+          "AI_CLIENTS_TITLE": "按设备挑选客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选择对应的订阅客户端，安装后导入订阅链接即可使用，具体适配以客户端文档为准。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年，设备数与流量依次递增，可按使用规模直接对照选择。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先确定订阅档位，再核对设备与系统是否满足要求，最后依照对应客户端的配置文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月大致流量，在基础版、旗舰版与团队版之间选定一档，再决定按月或按年付费。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本和客户端类型是否在支持范围内，多设备用户注意同时在线数量上限与套餐档位是否一致。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "打开已安装的客户端，依照其配置文档添加订阅链接，保存后选择节点即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定加速",
+          "AI_CLOSING_TEXT": "对照设备数量与月流量选定档位，按年付更能省下月均开销，随后依客户端文档导入订阅开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。",
+          "AI_FAQ_ANSWER_2": "旗舰版与团队版支持更多设备同时在线。旗舰版 5 台，团队版 20 台，基础版为 3 台。",
+          "AI_FAQ_ANSWER_3": "按年付可享更优价格，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "选择套餐后，按对应客户端文档导入订阅即可。Windows、macOS、iOS、Android 与路由器均提供配置说明。",
+          "AI_FAQ_ANSWER_5": "旗舰版与团队版面向高带宽需求，旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_QUESTION_1": "皮皮虾各套餐包含多少流量？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何在不同客户端上配置皮皮虾订阅？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合哪些使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ahhanyu.com",
+    "host": "ahhanyu.com"
+  },
+  "file_hashes": {
+    "index.html": "ad6679c5fe294d70a813783fc5493d3781fb3db56b0a3b57b1096f8e84a5931d",
+    "sitemap.xml": "c5ff00813c314bee89a884d37ea2cb046ea6d2747530bd4352a306f51360fcab",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0b25fc9b0fed60cc72770941d3745a430782368b751302f0ee36fc96ba74f72d",
+    "robots.txt": "7f313e33d5cb8fcd3ca93dd7f5f8f7fb217da77d299400f0501daa217f02b374",
+    "a29f08cdd773f3204763df37fdb8f693.txt": "a68d0d87978b3cee4a606def5d72f015cde07dd715fd154a02e71df79855f70f"
+  },
+  "revision": "d6ae4709a9ac83a24186ef7b6dc39376d49a1e58819d5c159ec15927f7344c40"
+}
